@@ -14,14 +14,14 @@ J'aime partir d'une vraie question, fiabiliser les données, modéliser avec mé
 
 | Projet | En bref | Outils |
 |---|---|---|
-| [Prédiction du churn client](https://github.com/aminenakrou/Projet-de-prediction-du-churn-client) | Modèles de classification et application Streamlit pour repérer les clients à risque | Python, scikit-learn, Streamlit, Docker |
+| [Tarification automobile](https://github.com/aminenakrou/tarification-auto-glm-xgboost) | Prime pure fréquence × coût : GLM Poisson / Gamma contre XGBoost, sur 678 000 contrats | Python, statsmodels, XGBoost |
+| [Provisionnement Chain-Ladder vs ML](https://github.com/aminenakrou/provisionnement-chain-ladder-ml) | Chain-Ladder, Mack et Cape Cod face à XGBoost, backtest sur 343 triangles réels | Python, NumPy, XGBoost |
+| [Prédiction du churn client](https://github.com/aminenakrou/Projet-de-prediction-du-churn-client) | Classification (AUC 0,85) et application Streamlit pour repérer les clients à risque | Python, scikit-learn, Streamlit, Docker |
 | [Scoring de crédit et courbe ROC](https://github.com/aminenakrou/scoring-credit-courbe-roc) | Risque d'impayé : régression logistique, arbre, forêt aléatoire, SMOTE | R, R Markdown |
 | [Accès à l'eau potable](https://github.com/aminenakrou/acces-eau-potable-tableau) | Tableau de bord pour choisir où une ONG doit investir (données OMS / FAO) | Tableau, Python |
 | [Dashboard suicide USA 2000-2018](https://github.com/aminenakrou/dashboard-suicide-usa) | Tableau de bord web interactif sur les données du CDC | JavaScript, Plotly |
-| [PageRank sur Wikispeedia](https://github.com/aminenakrou/pagerank-wikispeedia) | PageRank standard et personnalisé sur un graphe de navigation réel | Python, NumPy |
-| [Promenade aléatoire du cavalier](https://github.com/aminenakrou/promenade-aleatoire-cavalier-markov) | Étude d'une chaîne de Markov, simulations et rapport | Python, LaTeX |
 
-Autres projets : [algorithme de Dinic](https://github.com/aminenakrou/dinic-flot-maximum) (C), [CKOALA](https://github.com/aminenakrou/ckoala-recherche-typologies) (Java), [Pente](https://github.com/aminenakrou/pente-jeu-de-plateau) (C), [Flood It](https://github.com/aminenakrou/flood-it-jeu) (JavaScript), [QUESACO](https://github.com/aminenakrou/quesaco-maquettes) (React).
+Autres projets : [PageRank sur Wikispeedia](https://github.com/aminenakrou/pagerank-wikispeedia) (Python), [promenade aléatoire du cavalier](https://github.com/aminenakrou/promenade-aleatoire-cavalier-markov) (chaînes de Markov), [algorithme de Dinic](https://github.com/aminenakrou/dinic-flot-maximum) (C), [CKOALA](https://github.com/aminenakrou/ckoala-recherche-typologies) (Java), [Pente](https://github.com/aminenakrou/pente-jeu-de-plateau) (C), [Flood It](https://github.com/aminenakrou/flood-it-jeu) (JavaScript), [QUESACO](https://github.com/aminenakrou/quesaco-maquettes) (React).
 
 ### Compétences
 
